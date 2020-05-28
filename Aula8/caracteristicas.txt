@@ -1,0 +1,38 @@
+Caneca - Classe
+
+Caracteristicas - Atributos
+cor
+estampa
+asa
+tamanho
+
+Ação - Métodos
+reter líquidos
+
+Objeto = Caneca
+cor -> preta
+estampa -> sim
+asa -> sim
+tamanho -> medio
+
+
+
+
+Cliente - Classe
+
+Atributos
+Nome
+Idade
+Peso
+Altura
+
+Métodos
+Calcular IMC
+Calcular data de nascimento
+
+Objeto
+Nome -> Maicon
+Idade -> 29
+Peso -> 90
+Altura -> 180
+
