@@ -20,8 +20,10 @@ df = pd.read_csv('Aula12/FuelConsumption.csv')
 
 # print(df [(df["MAKE"] == "VOLVO") & (df["FUELCONSUMPTION_COMB_MPG"] > 25)])
 
-newdf = df[['MAKE', 'FUELCONSUMPTION_COMB_MPG']]
-print(newdf.head())
+# newdf = df[['MAKE', 'FUELCONSUMPTION_COMB_MPG']]
+# print(newdf.head())
+
+print(df.describe())
 
 # ndf = df[ df["MAKE"] == "VOLVO"]
 # ndf.to_csv('Aula12/volvo.csv')
